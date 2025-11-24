@@ -1,7 +1,7 @@
 # Quantitative-Investment-Models
 Optimization of a portfolio using Monte Carlo and Black-Scholes models, TSLA is the focus, AMZN/F/RIVN are the “peer set” / competitors to TSLA's EVs project. Assessed options, risk/return profiles, and market mispricing. Implemented VaR and CVaR to manage risk. The project uses Python for financial modeling, providing data-driven insights for investment decisions and portfolio allocation.
 
-Next Steps: Extending to NLP for IPO Prediction
+Next Steps: Extending to NLP for IPO Likelihood of SpaceX and BlueOrigin
 
 In this extension of the project, we will incorporate Natural Language Processing (NLP) to predict the likelihood of SpaceX and Blue Origin IPOs using text analysis from relevant news sources, earnings calls, press releases, and social media.
 
